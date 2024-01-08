@@ -12,9 +12,7 @@ Languages: Java,Python,Javascript,Vb,Html&Css
 I occasionally write about my experiences and share insights on my blog. Check it out for interesting reads related to software development and technology.
 
 🤝 Let's Connect
-Twitter: @YourTwitterHandle
-LinkedIn: Your LinkedIn Profile
-📈 GitHub Stats
+Phone: +254724603318
 
 Thanks for visiting my profile! Feel free to explore my projects and reach out if you have any questions or collaboration ideas.
 
